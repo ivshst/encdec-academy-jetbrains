@@ -1,0 +1,17 @@
+#Files
+settings.gradle
+gradlew.bat
+build.gradle
+gradlew
+*.yaml
+Problems/**/*.yaml
+Encryption-Decryption/**/*.yaml
+
+#Directory
+.gradle/**
+.idea/**
+gradle/**
+Encryption-Decryption/task/build/**
+Encryption-Decryption/task/out/**
+Encryption-Decryption/task/test/**
+Encryption-Decryption/task/X-files/**
